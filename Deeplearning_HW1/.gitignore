@@ -1,7 +1,4 @@
-# Claude Code settings
-.claude/
 
-# Generated output artifacts
 outputs/
 
 # Python
